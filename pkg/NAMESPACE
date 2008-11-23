@@ -1,0 +1,11 @@
+useDynLib(ffi)
+#coerce.R
+export("as.typecode","as.foreign","from.foreign","ffi.signature",
+       "ffi.vector","ffi.string","print.typecode","ffi.pointer")
+#call.R
+export(".FFI","BindFn",".LibFn")
+#cfunctions.R
+export("ffi.closure")
+
+
+

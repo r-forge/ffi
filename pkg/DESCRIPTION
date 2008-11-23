@@ -1,0 +1,7 @@
+Package: ffi
+Title: Foreign Function Interface
+Version: 0.1
+Description: A foreign function interface for R based on libffi
+Author: Byron Ellis <ellis@stat.harvard.edu>
+Maintainer: Byron Ellis <ellis@stat.harvard.edu>
+License: GPLv2
